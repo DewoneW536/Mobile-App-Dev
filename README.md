@@ -1,4 +1,5 @@
-##Mobile-App-Dev
+#Know Your Government
+
 Know Your Government is a mobile application that allows for US citizens to get involved with their local political cabinet in a
 way that is both user friendly and informative. The application was created as a final project for an Android Development course.
 
