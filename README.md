@@ -1,10 +1,10 @@
-## Know Your Government
+# Know Your Government
 
 Know Your Government is a mobile application that allows for US citizens to get involved with their local political cabinet in a
 way that is both user friendly and informative. The application was created as a final project for an Android Development course.
 
 
-# Features Implemented:
+## Features Implemented:
 - Implemented Google Civic APIs to update app with current list of Politicians via scrollable recyclerView, based on user location 
   or the zip code manually entered by user through the search bar.
 - Executed Location Services and Internet Services to automatically request user location at startup, else default to MountainView, CA
