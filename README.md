@@ -9,8 +9,8 @@ way that is both user friendly and informative. The application was created as a
   or the zip code manually entered by user through the search bar.
 - Executed Location Services and Internet Services to automatically request user location at startup, else default to MountainView, CA
   - In all activities, a location bar is shown that corresponds with user's local/requested city, state, or zip.
-- Utilized the Picasso Image Library API to display available recent images of politicians via the Google Civic API, using the URL 
-  listed for each government official the user taps/shows interest in.
+- Utilized the Picasso Image Library API to display available recent images of politicians via the Google Civic API, using URL 
+  listed in the JSONArray for each government official the user taps/shows interest in.
 - TextView Links are executed in Official Activity to take users to other applications based on information provided when pressed:
   - Address Link: Displays Politician's last known address and opens Google Maps with the address already located/displayed.
   - Phone Link: Provides the Official's listed phone number and pressing it will take users to native phone app to call said politician.
