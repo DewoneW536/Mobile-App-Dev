@@ -23,4 +23,4 @@ way that is both user friendly and informative. The application was created as a
   and finding the listed social media accounts of all politicians via the Google Civic API (FaceBook, Twitter, YouTube,etc).
     - If a user already has the listed applications installed on their phone, the Know Your Government app will take user's straight to
       the application using the given username of requested politician.
-    - If not, user will be taken to different social medias using Google Chrome.
+    - If not, user will be taken to different social medias via Google Chrome.
